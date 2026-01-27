@@ -12,6 +12,8 @@
 ### Descripción
   Este ejercicio contiene una introducción a la programación con hilos en Java, además de la aplicación a un caso concreto.
   
+## LOS ADELANTOS DEL LAB ESTAN EN RAMA SOLUCION-JAVA
+
 
 **Parte I - Introducción a Hilos en Java**
 
