@@ -1,5 +1,8 @@
 Laboratorio ARWS (ARQUITECTURA DE SOFTWARE)
 
+-David Alejandro Patacon Henao
+-Daniel Felipe Hueso Rueda
+
 Punto 1 
 
 Se nos pide crear 3 hilos que cuenten cada uno en un rango diferente, el primer hilo debe contar de 0 a 99, el segundo de 100 a 199 y el tercero de 200 a 299.
