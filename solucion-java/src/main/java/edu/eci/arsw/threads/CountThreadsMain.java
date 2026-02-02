@@ -22,14 +22,15 @@ public class CountThreadsMain {
         CountThread ct3 = new CountThread(200, 299);
 
         // Corre los hilos hilos usando start 
-        //ct1.start();
-        //ct2.start();
-        //ct3.start();
+        ct1.start();
+        ct2.start();
+        ct3.start();
+        System.out.println("Threads ended");
         
         // Corre los hilos usando run 
-        ct1.run();
-        ct2.run();
-        ct3.run();
+        //ct1.run();
+        //ct2.run();
+        //ct3.run();
 
     }
     
